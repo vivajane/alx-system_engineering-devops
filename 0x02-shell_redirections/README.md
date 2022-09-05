@@ -1,1 +1,1 @@
-Replaces characters
+Script that removes all letters c and C from input
