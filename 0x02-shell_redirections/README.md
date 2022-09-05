@@ -1,1 +1,1 @@
-script that displays the line containing pattern
+script that displays the number of lines that contains pattern
