@@ -1,1 +1,1 @@
-shell script that creates a file named best school
+script that writes into a file
