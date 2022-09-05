@@ -1,1 +1,1 @@
-script that creates a file named.
+script that deletes the regular files
