@@ -1,1 +1,1 @@
-script that finds all empty files and directory
+script that list files with .gif
