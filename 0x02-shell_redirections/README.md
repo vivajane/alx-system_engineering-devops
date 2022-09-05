@@ -1,1 +1,1 @@
-Script that displays the ten newest file
+script that displays the line containing pattern
