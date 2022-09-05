@@ -1,1 +1,1 @@
-displays lines containing the pattern root
+Script that displays all the line that do not contain pattern
